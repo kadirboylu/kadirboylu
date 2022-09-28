@@ -51,6 +51,7 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 </p>
 
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadirboylu&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kadirboylu" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirboylu&show_icons=true&theme=tokyonight&locale=en" alt="kadirboylu" /></p>
