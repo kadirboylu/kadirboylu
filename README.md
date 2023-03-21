@@ -3,7 +3,7 @@
 <div align="center"><img src="https://media.giphy.com/media/djRJNZqj508sE/giphy.gif" width="400"  /> </div>
 <h3 align="center">A frontend developer from Istanbul, Turkey</h3>
 
-- 🌱 I’m currently learning **Vue.js and TypeScript**
+- 🌱 I’m currently learning **Nuxt.js and Headless UI**
 
 - 📫 How to reach me **kadir.boylu@outlook.com**
 
